@@ -1,0 +1,23 @@
+{
+	"name": "boutiq-studio",
+	"version": "1.0.0",
+	"description": "Boutiq Studio website",
+	"main": "assets/vendor/enduro/index.js",
+	"scripts": {
+		"start": "node_modules/.bin/enduro start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JavierRizzoA/boutiq-dot-studio.git"
+	},
+	"author": "Javier Rizzo-Aguirre",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/JavierRizzoA/boutiq-dot-studio/issues"
+	},
+	"homepage": "https://github.com/JavierRizzoA/boutiq-dot-studio#readme",
+	"dependencies": {
+		"@glidejs/glide": "^3.3.0",
+		"enduro": "*"
+	}
+}
